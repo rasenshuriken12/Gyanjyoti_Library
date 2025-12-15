@@ -72,7 +72,7 @@
 
 # Feedback:
 <br> I’d love to hear from you!
-<br> If you encounter any [Issues](https://github.com/rasenshuriken12/Library_Management_System/issues), or have [Suggestions](https://github.com/rasenshuriken12/Library_Management_System/blob/main/Issue_Template/Features_report.md) for improvements.
+<br> If you encounter any [Issues](https://github.com/rasenshuriken12/Gyanjyoti_Library/issues), or have [Suggestions](https://github.com/rasenshuriken12/Gyanjyoti_Library/blob/main/Issue_Template/Features_report.md) for improvements.
 
 # Support:
 If you like ❤️ this project, give it a ⭐ (Top right of page) and share it with friends!
